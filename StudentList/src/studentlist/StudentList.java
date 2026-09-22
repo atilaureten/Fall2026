@@ -24,8 +24,8 @@ public class StudentList {
         s1.setName("peter");
         s1.setSid(1);
          Student s2 = new Student();
-        s2.setName("tarun");
-        s2.setSid(2);
+        s2.setName("Atila");
+        s2.setSid(991850506);
        //  Student s3 = new Student();
        // s3.setName("john");
        // s3.setSid(3);
