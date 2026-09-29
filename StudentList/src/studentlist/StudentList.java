@@ -22,7 +22,7 @@ public class StudentList {
         //create object
         Student s1 = new Student();
         s1.setName("peter");
-        s1.setSid(1);
+        s1.setSid(100);
          Student s2 = new Student();
         s2.setName("Atila");
         s2.setSid(991850506);
