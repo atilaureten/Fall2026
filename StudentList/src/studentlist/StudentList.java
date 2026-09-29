@@ -17,7 +17,7 @@ public class StudentList {
         // TODO code application logic here
         //user interaction
         // define 3 students and print 
-        Student[] list = new Student[2]; // sid, name, change, chang2
+        Student[] list = new Student[2]; // sid, name, change, chang2, change 3
         //array of object declaration
         //create object
         Student s1 = new Student();
