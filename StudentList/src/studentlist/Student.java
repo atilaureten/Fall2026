@@ -5,7 +5,7 @@
 package studentlist;
 
 /** entity 
- *
+ * modifier student John
  * @author sivagamasrinivasan
  */
 public class Student // model the student raw data
@@ -13,6 +13,7 @@ public class Student // model the student raw data
     private String name; // variables private 
    private int sid; // principle "encapsulation"
 private int sem;
+    private int coursecode;
     /**
      * @return the name
      */
